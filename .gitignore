@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Tableau
+*.temp
+
+# Python cache (про всяк випадок)
+__pycache__/
+*.pyc
