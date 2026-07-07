@@ -139,4 +139,4 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 📧 rudenko.alexandr93@gmail.com
 
 🔗 LinkedIn:
-www.linkedin.com/in/da-rudenko-alexandr
+www.linkedin.com/in/da-rudenko-alexandr   
